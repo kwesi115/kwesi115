@@ -1,79 +1,54 @@
-# Kwesi Michai
+# Hi, I'm Kwesi 👋
 
-**Computer Science @ Howard University**  
-*Aspiring Software Engineer | Data Enthusiast | Economics Explorer*
+I'm a **Computer Science & Economics student at Howard University** interested in **software engineering, machine learning, data, and fintech**.
 
----
+I enjoy building systems that turn data into useful products and exploring how technology and economics intersect.
 
-## 👋 About Me
+### 🔧 What I Work With
 
-Hey there! I'm Kwesi — a passionate developer and problem solver currently studying Computer Science at Howard University, with a minor in Economics. I’ve worked on a range of projects from full-stack eCommerce platforms to data dashboards using Snowflake and Power BI. I enjoy building things that solve real problems and exploring how tech intersects with economic systems, data, and human behavior.
+**Languages:**
+Python · C++ · JavaScript · C# · SQL · R
 
----
+**Tools & Technologies:**
+Git · Linux · Bash · Pandas · Stata · .NET · Next.js · TypeScript · PostgreSQL · Power BI · dbt
 
-## 🛠️ Tech Stack
+**Interests:**
+Software Engineering · Machine Learning · NLP · Data Engineering · AI · Fintech
 
-**Languages:**  
-- Python • JavaScript • TypeScript • SQL •  C++
+### 💻 Experience
 
-**Frameworks & Libraries:**  
-- React.js • Node.js • Express.js • TailwindCSS • Bootstrap  
-- Next.js • Pandas • NumPy • DBT • Power BI
+**Software Engineering Intern — Northern Trust**
+Worked on a bonds trading application, developing production-ready applications with **C#/.NET** and design patterns. Also worked on prompt engineering to improve AI-assisted software development.
 
-**Tools & Platforms:**  
-- Git & GitHub • MongoDB • PostgreSQL • Snowflake • Firebase  
-- Linux • Microsoft Azure
+**Machine Learning Research Assistant — Howard University**
+Applied **NLP** to unstructured text data and researched multilingual LLM capabilities, focusing on cross-lingual performance and generalization.
 
----
+**Data Engineer Intern — Stellantis**
+Built and maintained **10+ data pipelines using dbt**, analyzed 1M+ records, and developed **Power BI dashboards** to improve data visibility and support migration to production.
 
-## 💼 Experience
+### 🚀 Projects
 
-**Data Analyst Intern @ Stellantis** *(Summer 2025)*  
-- Built dashboards and performed exploratory data analysis using Snowflake & Power BI.  
-- Worked cross-functionally with engineers and product teams to automate reporting.
+**Howard NSBE Data Insights App**
+Full-stack application built with **Next.js, TypeScript, and PostgreSQL** to track event attendance and member engagement through QR check-ins, leaderboards, and role-based administration.
 
-**Freelance Web Developer**  
-- Designed and built responsive websites for small businesses in Chicago.  
-- Delivered custom CMS dashboards and SEO-optimized static sites.
+**MERN eCommerce Store**
+Full-stack eCommerce platform featuring secure authentication, dynamic cart functionality, and an admin dashboard.
 
-**Geospatial Analyst Intern @ Dewberry (Upcoming)**  
-- Will support spatial data processing and analysis for civil and environmental projects.
+**Movie Database**
+Interactive movie database with real-time search and a responsive user interface.
 
----
+### 🎓 Education
 
-## 📂 Featured Projects
+**Howard University**
+B.S. Computer Science & Economics · Expected May 2027
+GPA: **3.7/4.0**
 
-### 🌐 [Flixx – Movie Explorer](https://kwesi115.github.io/flixx/)
-A TMDb-powered movie site with dynamic search, modals, and film previews using vanilla JavaScript and CSS.
+Relevant coursework includes Data Structures & Algorithms, Micro/Macro Economic Theory, Linear Algebra, and Probability & Statistics.
 
-### 🏃‍♂️ Calorie Tracker App
-A full-stack social running platform with:
-- Geolocation, user profiles, run history
-- Friend/follower system, search events, and notifications
-- Built with React, Node.js, and MongoDB
+🌎 Study Abroad: UC3M — Madrid, Spain
 
-### 🛒 MERN E-Commerce Store
-A full-featured online store with:
-- User authentication, product filters, payment integration  
-- Admin dashboard and product management features
+### 📫 Connect With Me
 
----
+📧 **Email:** [kwesimichai1@gmail.com](mailto:kwesimichai1@gmail.com)
 
-## 📊 Interests
-
-- Economic modeling & behavioral data
-- Agent-based simulations & AI forecasting
-- Startups, fintech, and productivity tools
-- Chess, tech education, and urban mobility
-
----
-
-## 📫 Connect With Me
-
-- 📧 Email: [kwesimichai1@gmail.com](mailto:kwesimichai1@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/kwesimichai](https://linkedin.com/in/kwesimichai)
-- Portfolio: https://kwesi115.github.io/Kwesi-Michai/
-
----
-
-> “Build with purpose. Learn without limits.”
+I'm always interested in connecting with people working in **software engineering, AI/ML, data, and fintech**.
